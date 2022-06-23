@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ .navLinks {
+   display: "flex";
+   color:green;
+     margin-left: '40px',
+ }
+.footer-left {
+  padding-top: 10rem!important;
+}
+
+@media screen and (max-width: 968px) {
+  .footer-left {
+    padding-top: 5rem!important;
+  }
+}
+
+
+ 
