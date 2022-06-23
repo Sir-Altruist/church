@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab21c679.css",
+    "main.js": "/static/js/main.cf293b80.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/landing.png": "/static/media/landing.5b48fcb126214b57b0de.png",
+    "static/media/restoration.png": "/static/media/restoration.fb8a43817d83f2bf448e.png",
+    "static/media/digging.png": "/static/media/digging.0603cfaabde1211afb09.png",
+    "static/media/vigil.png": "/static/media/vigil.ccd8445ecebe2d463c15.png",
+    "static/media/worship.png": "/static/media/worship.4b6b1d36f53e47845142.png",
+    "static/media/latest.png": "/static/media/latest.3d3d98f1bd190d79be13.png",
+    "static/media/testimony.png": "/static/media/testimony.7febf5eae92b6a581a49.png",
+    "index.html": "/index.html",
+    "main.ab21c679.css.map": "/static/css/main.ab21c679.css.map",
+    "main.cf293b80.js.map": "/static/js/main.cf293b80.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab21c679.css",
+    "static/js/main.cf293b80.js"
+  ]
+}
