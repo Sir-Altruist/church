@@ -267,6 +267,7 @@ const Footer = () => {
           </Grid>
         </Box>
       </Hidden>
+
       <Hidden mdUp>
         <Box sx={{ bgcolor: "black", mt: 10, py: 5 }}>
           <Grid
