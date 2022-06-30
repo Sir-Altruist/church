@@ -37,12 +37,7 @@ const Blog = () => {
         <Typography py={2} variant="h4">
           Latest
         </Typography>
-        <Grid
-          container
-          spacing={{ xs: 2, md: 3 }}
-
-          // columns={{ xs: 4, sm: 8, md: 12 }}
-        >
+        <Grid container spacing={{ xs: 2, md: 3 }}>
           <Grid sx={{ px: 1, py: 2 }} xs={12} sm={4} md={4}>
             <Card>
               <CardMedia
@@ -53,14 +48,12 @@ const Blog = () => {
                   { width: "100%" },
                   (theme) => ({
                     [theme.breakpoints.down("sm")]: {
-                      // display: "flex",
                       width: "100%",
                     },
                   }),
 
                   (theme) => ({
                     [theme.breakpoints.down("xs")]: {
-                      // display: "flex",
                       width: 100,
                     },
                   }),
