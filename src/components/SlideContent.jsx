@@ -32,8 +32,8 @@ const SlideContent = () => {
           width: "100%",
           px: 4,
           minHeight: "100vh",
-          py: 6,
-          my: 3,
+          py: 8,
+          my: 20,
         },
         (theme) => ({
           [theme.breakpoints.down("sm")]: {
